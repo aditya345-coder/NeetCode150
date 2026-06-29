@@ -8,7 +8,7 @@ Merge the two lists into one sorted list. The list should be made by splicing to
 Return the head of the merged linked list.
 """
 
-# Solution:
+# Solution: Time Complexity: O(n); Space Complexity: O(n)
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
